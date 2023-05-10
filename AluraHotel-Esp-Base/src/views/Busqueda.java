@@ -276,8 +276,6 @@ public class Busqueda extends JFrame {
 
 				editar();
 
-				// ((MouseListener) lblBuscar).mouseClicked(e);
-
 			}
 
 		});
@@ -406,7 +404,7 @@ public class Busqueda extends JFrame {
 			JOptionPane.showMessageDialog(null, "Tienes que seleccionar un elemento");
 			return;
 		}
-		Object fila = modelo.getValueAt(tablaSeleccionada.getSelectedRow(), tablaSeleccionada.getSelectedColumn());
+		Object fila = modeloSeleccionado.getValueAt(tablaSeleccionada.getSelectedRow(), tablaSeleccionada.getSelectedColumn());
 		if (fila != null) {
 			if (modeloSeleccionado == modelo) {
 				Integer id = Integer
