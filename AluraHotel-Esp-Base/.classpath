@@ -11,5 +11,8 @@
 	<classpathentry kind="lib" path="C:/Program Files/java-libs-por-mi/j-calendar/lib/jgoodies-looks-2.4.1.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/java-libs-por-mi/j-calendar/lib/junit-4.6.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/java-libs-por-mi/c3p0-0.9.5.5/lib/c3p0-0.9.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/java-libs-por-mi/c3p0-0.9.5.5/lib/c3p0-oracle-thin-extras-0.9.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/java-libs-por-mi/c3p0-0.9.5.5/lib/mchange-commons-java-0.2.19.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
